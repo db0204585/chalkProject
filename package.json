@@ -1,0 +1,22 @@
+{
+  "name": "chalkproject",
+  "version": "1.0.0",
+  "description": "more shit",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db0204585/chalkProject.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "david blacksher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/db0204585/chalkProject/issues"
+  },
+  "homepage": "https://github.com/db0204585/chalkProject#readme"
+}
