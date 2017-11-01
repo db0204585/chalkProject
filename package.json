@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/db0204585/chalkProject/issues"
   },
-  "homepage": "https://github.com/db0204585/chalkProject#readme"
+  "homepage": "https://github.com/db0204585/chalkProject#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.4"
+  }
 }
